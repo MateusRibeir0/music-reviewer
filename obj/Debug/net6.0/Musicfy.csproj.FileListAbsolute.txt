@@ -1,0 +1,14 @@
+C:\Users\Mateus\Desktop\Projetos Dev\C#\Projeto 1 - Biblioteca de música\ScreenSound\bin\Debug\net6.0\Musicfy.exe
+C:\Users\Mateus\Desktop\Projetos Dev\C#\Projeto 1 - Biblioteca de música\ScreenSound\bin\Debug\net6.0\Musicfy.deps.json
+C:\Users\Mateus\Desktop\Projetos Dev\C#\Projeto 1 - Biblioteca de música\ScreenSound\bin\Debug\net6.0\Musicfy.runtimeconfig.json
+C:\Users\Mateus\Desktop\Projetos Dev\C#\Projeto 1 - Biblioteca de música\ScreenSound\bin\Debug\net6.0\Musicfy.dll
+C:\Users\Mateus\Desktop\Projetos Dev\C#\Projeto 1 - Biblioteca de música\ScreenSound\bin\Debug\net6.0\Musicfy.pdb
+C:\Users\Mateus\Desktop\Projetos Dev\C#\Projeto 1 - Biblioteca de música\ScreenSound\obj\Debug\net6.0\Musicfy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateus\Desktop\Projetos Dev\C#\Projeto 1 - Biblioteca de música\ScreenSound\obj\Debug\net6.0\Musicfy.AssemblyInfoInputs.cache
+C:\Users\Mateus\Desktop\Projetos Dev\C#\Projeto 1 - Biblioteca de música\ScreenSound\obj\Debug\net6.0\Musicfy.AssemblyInfo.cs
+C:\Users\Mateus\Desktop\Projetos Dev\C#\Projeto 1 - Biblioteca de música\ScreenSound\obj\Debug\net6.0\Musicfy.csproj.CoreCompileInputs.cache
+C:\Users\Mateus\Desktop\Projetos Dev\C#\Projeto 1 - Biblioteca de música\ScreenSound\obj\Debug\net6.0\Musicfy.dll
+C:\Users\Mateus\Desktop\Projetos Dev\C#\Projeto 1 - Biblioteca de música\ScreenSound\obj\Debug\net6.0\refint\Musicfy.dll
+C:\Users\Mateus\Desktop\Projetos Dev\C#\Projeto 1 - Biblioteca de música\ScreenSound\obj\Debug\net6.0\Musicfy.pdb
+C:\Users\Mateus\Desktop\Projetos Dev\C#\Projeto 1 - Biblioteca de música\ScreenSound\obj\Debug\net6.0\Musicfy.genruntimeconfig.cache
+C:\Users\Mateus\Desktop\Projetos Dev\C#\Projeto 1 - Biblioteca de música\ScreenSound\obj\Debug\net6.0\ref\Musicfy.dll
